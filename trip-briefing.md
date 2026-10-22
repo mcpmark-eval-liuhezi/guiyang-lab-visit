@@ -157,9 +157,11 @@ Direct high-speed trains run on this date, so no one-transfer routing was needed
 
 Reading-group papers on retrieval-augmented generation (RAG):
 
-1. Active Retrieval Augmented Generation — arXiv:2305.06983 (FLARE: active, sentence-level retrieval on demand)
-2. Corrective Retrieval Augmented Generation — arXiv:2401.15884 (CRAG: retrieval evaluator with corrective actions)
-3. A Survey on Retrieval-Augmented Text Generation — arXiv:2202.01110 (foundations of retrieval-augmented generation)
-4. Dynamic Retrieval-Augmented Generation — arXiv:2312.08976 (deciding when retrieval is actually needed)
-5. A Comprehensive Survey of Retrieval-Augmented Generation (RAG): Evolution, Current Landscape and Future Directions — arXiv:2410.12837
-6. A Survey of Multimodal Retrieval-Augmented Generation — arXiv:2504.08748
+1. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks — arXiv:2005.11401 (the original RAG paper: Lewis et al., 2020)
+2. Active Retrieval Augmented Generation — arXiv:2305.06983 (FLARE: active, sentence-level retrieval on demand)
+3. Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection — arXiv:2310.11511
+4. Corrective Retrieval Augmented Generation — arXiv:2401.15884 (CRAG: retrieval evaluator with corrective actions)
+5. A Survey on Retrieval-Augmented Text Generation — arXiv:2202.01110 (foundations of retrieval-augmented generation)
+6. Dynamic Retrieval-Augmented Generation — arXiv:2312.08976 (deciding when retrieval is actually needed)
+7. A Comprehensive Survey of Retrieval-Augmented Generation (RAG): Evolution, Current Landscape and Future Directions — arXiv:2410.12837
+8. A Survey of Multimodal Retrieval-Augmented Generation — arXiv:2504.08748
